@@ -4,7 +4,7 @@ I'm a BCA student KLE college at chikkodi
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirjerakshita) [![LinkedIn]
-(https://www.linkedin.com/in/rakshita-mirje-ba0a972b6/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8jcNi4sVSY%2Bm%2BN7yqAMQNw%3D%3D)](https://linkdin.com/mirjerakshita)
+(https://www.linkedin.com/in/rakshita-mirje-ba0a972b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3L6%2Fw%2Fg2T22AGpAtvlQ0kw%3D%3D)](https://linkdin.com/mirjerakshita)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
